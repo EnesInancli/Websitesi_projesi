@@ -36,4 +36,4 @@ Bodrum Çözüm Mühendislik web sitesini yayında ziyaret etmek için: **https:
 
 ## 📝 GitHub Gizlilik Notu
 
-*Not: Şirkete ait özel iş mantıkları, hassas kurumsal veriler, yönetici yetkilendirme detayları ve gizli API (Supabase/E-posta) doğrulama anahtarları bu herkese açık (public) repoya dahil edilmemiştir. Bu repo, projenin modern önyüz (frontend) mimarisini, kullanılan framework ve kütüphanelerin entegrasyonunu sergilemek amacıyla portfolyo formatında paylaşılmaktadır.*
+*Not: Şirkete ait özel iş mantıkları, hassas kurumsal veriler, yönetici yetkilendirme detayları, gizli API (Supabase/E-posta) doğrulama anahtarları ve kodlamalar bu herkese açık (public) repoya dahil edilmemiştir. Bu repo,portfolyo formatında paylaşılmaktadır.*
